@@ -1,0 +1,25 @@
+.form-textarea input{
+    width: 500px;
+    margin: 20px;
+    border: 0px thin black;
+    background-color: rgb(182, 243, 243);
+}
+
+.form-textarea button{
+    margin-left: 23px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.form-textarea h2{
+    margin-left: 23px;
+    color: red;
+}
+
+.form-textarea p{
+    margin-left: 23px;
+    width: 1000px;
+    background-color: beige;
+    color: blue;
+}

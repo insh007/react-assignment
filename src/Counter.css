@@ -1,0 +1,21 @@
+.count-component{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid red;
+}
+
+.count-component button{
+    margin: 16px;
+}
+
+.count-component p{
+    font-size: 24px;
+}
+
+.count-type span{
+    border: 2px solid rgb(247, 240, 240);
+    color: white;
+    background-color: black;
+    padding: 2px;
+    border-radius: 5px;
+}
