@@ -54,8 +54,8 @@ root.render(
   // </BrowserRouter>
 
   <React.StrictMode>
-    {/* <FormTextArea/> */}
-    {<UserForm/>}
+    <FormTextArea/>
+    {/* {<UserForm/>} */}
 
     {/* <FormComponent/> */}
     {/* <CurrentTime/>
